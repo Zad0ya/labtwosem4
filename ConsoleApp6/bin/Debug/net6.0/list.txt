@@ -1,0 +1,11 @@
+Pivo;1;17
+CocaCola;1;9
+Sprite;1;9
+Bread;3;13
+Salo;7;45
+Pizza;3;9
+Fanta;1;10
+Tomaten;4;16
+Doctorskaja;7;89
+Icecream;5;47
+Gurken;4;14

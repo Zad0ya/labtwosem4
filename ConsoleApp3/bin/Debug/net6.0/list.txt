@@ -1,0 +1,4 @@
+Serui;Max;65;54
+Zapolska;Kate;75;65
+Bandera;Nikola;34;76
+Bred;Pitt;95;100
